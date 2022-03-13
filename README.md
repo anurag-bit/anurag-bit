@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anurag-bit
-- 👀 I’m interested in Java
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning Swift 
 - 💞️ I’m looking to collaborate on Android app projects
 - 📫 How to reach me singh.ask@outlook.com
