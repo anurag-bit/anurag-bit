@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anurag-bit
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Swift 
-- 💞️ I’m looking to collaborate on Android app projects
+- 🌱 I’m currently learning PyTorch
+- 💞️ I’m looking to collaborate on IOS app projects
 - 📫 How to reach me singh.ask@outlook.com
 - 😄 Pronouns: He/Him.
 ## Skills 🚀
