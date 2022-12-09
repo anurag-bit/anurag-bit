@@ -11,9 +11,9 @@
     <img src="https://skillicons.dev/icons?i=pytorch,python,ts,solidity,nodejs,tailwindcss,react,nextjs,figma,vscode,git,dart" />
   </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-bit&show_icons=true&count_private=true" alt="anurag-bit" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankuranurag2&layout=compact&hide=html" alt="ankuranurag2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-bit&show_icons=true&count_private=true" alt="anurag-bit" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-bit&layout=compact&hide=html" alt="anurag-bit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-bit&show_icons=true&count_private=true" alt="anurag-bit" /></p>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/ankuranurag2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankuranurag2" height="30" width="30" /></a>
