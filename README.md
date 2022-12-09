@@ -11,6 +11,7 @@
     <img src="https://skillicons.dev/icons?i=pytorch,python,ts,solidity,nodejs,tailwindcss,react,nextjs,figma,vscode,git,dart" />
   </a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-bit&show_icons=true&count_private=true" alt="anurag-bit" /></p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
