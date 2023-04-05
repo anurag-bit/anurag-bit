@@ -1,6 +1,6 @@
 # Hey! 👋
 Hi, I’m Anurag Singh
-A passionate developer from India, who is surfing around in the world of ML 🏄‍♂️. I love building crazy stuff for android, iOS, and Windows using web and native technologies! I 
+A High-School student and  a passionate developer from India, who is surfing around in the world of ML 🏄‍♂️. I love building crazy stuff for android, iOS, and Windows using web and native technologies! I 
 
 I mainly build products in the Native app space and do a "**lot**" experiments with the latest tech in backend ecosystem
 <p align="center">
@@ -16,7 +16,7 @@ I mainly build products in the Native app space and do a "**lot**" experiments w
 
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) and ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-- 💞️ I’m looking to collaborate on ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) and ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) app projects
+- 💞️ I’m looking to collaborate on ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) app projects
 - 📫 How to reach me hello@anuragks.tech
 
 # Skills 🚀
