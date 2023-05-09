@@ -1,6 +1,6 @@
 # Hey! 👋
 Hi, I’m Anurag Singh
-A High-School student and  a passionate developer from India, who is surfing around in the world of ML 🏄‍♂️. I love building crazy stuff for android, iOS, and Windows using web and native technologies! I 
+A High-School student and  a passionate developer from India, exploring the world of ML 🏄‍♂️. I love building crazy stuff for android, iOS, and Windows using web and native technologies! I 
 
 I mainly build products in the Native app space and do a "**lot**" experiments with the latest tech in backend ecosystem
 <p align="center">
