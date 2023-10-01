@@ -30,17 +30,8 @@ I mainly build products in the Native app space and do a "**lot**" experiments w
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-"**other skills include!**"
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,python,ts,solidity,nodejs,tailwindcss,react,nextjs,figma,vscode,git,dart,mongodb,prisma,postgres,redis," />
-  </a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-bit&show_icons=true&count_private=true" alt="anurag-bit" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-bit&layout=compact&hide=html" alt="anurag-bit" /></p>
-</br>
 
 # Uses🛠
-
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -53,8 +44,15 @@ I mainly build products in the Native app space and do a "**lot**" experiments w
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<a rel="me" href="https://technodon.org/@anurag">Mastodon</a>
-	
+"**other skills include!**"
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,python,ts,solidity,nodejs,tailwindcss,react,nextjs,figma,vscode,git,dart,mongodb,prisma,postgres,redis," />
+  </a>
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-bit&show_icons=true&count_private=true" alt="anurag-bit" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-bit&layout=compact&hide=html" alt="anurag-bit" /></p>
+</br>
+
 
 
 
