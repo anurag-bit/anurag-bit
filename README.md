@@ -12,7 +12,7 @@ I mainly build products in the Native app space and do a "**lot**" experiments w
   </a>
 </p>
 
-[![An image of @anuragbit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragbit)](https://holopin.io/@anuragbit)
+
 
 
 - 👀 I’m interested in ML
