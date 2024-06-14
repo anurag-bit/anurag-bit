@@ -12,9 +12,12 @@ I mainly build products in the Native app space and do a "**lot**" experiments w
   </a>
 </p>
 
+
 [![An image of @anuragbit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragbit)](https://holopin.io/@anuragbit)
 
 
+
+[![Anurag`s progress on his way to build Redis from scratch in go](https://backend.codecrafters.io/progress/redis/1e3fefbb-31e3-4fe4-b193-16da14e7abac)
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) and ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 - 💞️ I’m looking to collaborate on ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) app projects
