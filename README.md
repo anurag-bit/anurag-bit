@@ -1,8 +1,8 @@
 # Hey! 👋
 Hi, I’m Anurag Singh
-A  student and  a passionate developer from India, exploring the world of ML 🏄‍♂️. I love building crazy stuff for android, iOS, and Windows using web and native technologies! I 
-
-I mainly build products in the Native app space and do a "**lot**" experiments with the latest tech in backend ecosystem
+A  student and  a passionate developer from India, Date engineering Intern@h2loop.ai 
+ exploring the world of AI 🏄‍♂️. I love building crazy stuff for android, iOS, and Windows using native technologies! 
+I do a "**lot**" experiments with the latest tech, tinkerer as they call me!
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
